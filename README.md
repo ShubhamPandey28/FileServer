@@ -1,6 +1,6 @@
-# This is just for practice nothing important. 
+# File Server. 
 
-A nodejs server for uploading files to mongodb with encrypted names.
+A nodejs server for uploading files to mongodb with encrypted names using gridfs stream.
 
 ### Running instructions
 
